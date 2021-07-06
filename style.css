@@ -1,0 +1,31 @@
+
+
+.staff-names {
+  border-width: 2px;
+  border-color: black;
+  border: solid;
+  padding: 10px;
+  min-height: 200px;
+  background-color: #99ff99;
+}
+
+.staff-names div span{
+  border: 1px solid black;
+  background-color: #66ffff;
+  padding: 10px;
+  font-size: 30px;
+}
+
+.sick {
+  background-color: #ffb366;
+  min-height: 200px;
+}
+
+.holiday {
+  background-color: #3366ff;
+  min-height: 200px;
+}
+
+.names-box {
+  border: 1px solid black;
+}
